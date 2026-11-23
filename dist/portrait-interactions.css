@@ -1,0 +1,23 @@
+/* Ghost labels preserve portrait visibility while inviting exploration. */
+[data-testid^="hotspot-"]{width:64px!important;height:64px!important;}
+[data-testid^="hotspot-"] > span{transition:opacity .18s ease,background .18s ease,color .18s ease;}
+[data-testid^="hotspot-"] > span:first-child{display:none;}
+[data-testid^="hotspot-"] > span:nth-child(2){opacity:.22;background:transparent!important;border-color:var(--hotspot-color);width:12px!important;height:12px!important;}
+[data-testid^="hotspot-"] > span:last-child{opacity:.68;top:50%;left:calc(100% + 18px);transform:translateY(-50%);font-size:14px;font-weight:600;padding:7px 16px;background:rgba(19,18,26,.12)!important;color:#fff;border-color:var(--hotspot-color);box-shadow:none;pointer-events:auto;}
+[data-testid^="hotspot-"] > span:last-child > span{display:none;}
+[data-testid^="hotspot-"] > span:last-child:before{content:"";position:absolute;right:100%;top:-12px;width:55px;height:calc(100% + 24px);}
+[data-testid^="hotspot-"]:hover > span:nth-child(2),[data-testid^="hotspot-"]:focus-visible > span:nth-child(2){opacity:1;background:var(--hotspot-color)!important;}
+[data-testid^="hotspot-"]:hover > span:last-child,[data-testid^="hotspot-"]:focus-visible > span:last-child{opacity:1;background:var(--hotspot-color)!important;color:#13121a;border-color:#13121a;}
+[data-testid="hotspot-ears"] > span:last-child,[data-testid="hotspot-arms"] > span:last-child{left:auto;right:calc(100% + 18px);}
+[data-testid="hotspot-ears"] > span:last-child:before,[data-testid="hotspot-arms"] > span:last-child:before{right:auto;left:100%;}
+[data-testid="hotspot-brain"] > span:last-child{left:50%;top:auto;bottom:calc(100% + 10px);transform:translateX(-50%);}
+[data-testid="hotspot-brain"] > span:last-child:before{right:-12px;top:100%;width:calc(100% + 24px);height:55px;}
+@media(max-width:600px){[data-testid^="hotspot-"]{width:56px!important;height:56px!important;}[data-testid^="hotspot-"] > span:last-child{left:calc(100% + 4px);}[data-testid="hotspot-ears"] > span:last-child,[data-testid="hotspot-arms"] > span:last-child{left:auto;right:calc(100% + 4px);}[data-testid="hotspot-brain"] > span:last-child{left:50%;}}
+
+/* Mirror the shared React selection from the category list. */
+[data-testid^="hotspot-"][data-active="true"] > span:nth-child(2){opacity:1;background:var(--hotspot-color)!important;}
+[data-testid^="hotspot-"][data-active="true"] > span:last-child{opacity:1;background:var(--hotspot-color)!important;color:#13121a;border-color:#13121a;}
+@media(max-width:600px){[data-testid^="hotspot-"] > span:last-child{font-size:12px;padding:6px 12px;}}
+/* Center the heart pill at the point selected on the portrait. */
+[data-testid="hotspot-heart"] > span:last-child{left:50%;right:auto;top:50%;bottom:auto;transform:translate(-50%,-50%);}
+[data-testid="hotspot-heart"] > span:last-child:before{right:-12px;top:-12px;width:calc(100% + 24px);height:calc(100% + 24px);}

@@ -1,0 +1,349 @@
+{
+  "settings": {
+    "name": "Blair Wang",
+    "alt_name": "Xiyue Wang · 王晰乐",
+    "role_line": "Filmmaker — director, cinematographer, sound designer & producer",
+    "intro": "[Add a one-sentence introduction: what kind of stories you make and why.]",
+    "location": "Beijing, China · Hong Kong · Doha, Qatar",
+    "email": "wangxiyue0728@gmail.com",
+    "availability": "[Open to collaborations, roles and graduate study — edit in admin]",
+    "socials": [
+      {
+        "label": "Vimeo",
+        "url": ""
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/blairrrr_wang?hvrq=MW1hOWtmdXNmNDlodA%3D%3D&utm_source=qr"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/xiyue-wang-9aab912b0/"
+      }
+    ],
+    "about_statement": "[Your filmmaker statement — the questions that pull you toward the camera.]",
+    "about_bio": "[Add your biography: background, education, the projects that shaped you, and what you want to make next.]",
+    "about_image": "",
+    "skills": [
+      "[Skill / tool]",
+      "[Skill / tool]",
+      "[Skill / tool]"
+    ],
+    "portrait_url": "/api/uploads/blair-portrait-cutout.png",
+    "hotspots": {
+      "brain": {
+        "x": 56,
+        "y": 27
+      },
+      "eyes": {
+        "x": 62,
+        "y": 38.5
+      },
+      "ears": {
+        "x": 34,
+        "y": 38
+      },
+      "mouth": {
+        "x": 51,
+        "y": 46
+      },
+      "arms": {
+        "x": 20,
+        "y": 75
+      },
+      "heart": {
+        "x": 75,
+        "y": 75
+      }
+    },
+    "cv_pdf_url": "",
+    "cv": [
+      {
+        "heading": "Education",
+        "items": [
+          {
+            "year": "[Year]",
+            "title": "[Degree — Institution]",
+            "detail": "[Focus / thesis]"
+          }
+        ]
+      },
+      {
+        "heading": "Selected Work",
+        "items": [
+          {
+            "year": "[Year]",
+            "title": "[Project title]",
+            "detail": "[Role]"
+          }
+        ]
+      },
+      {
+        "heading": "Screenings & Awards",
+        "items": [
+          {
+            "year": "[Year]",
+            "title": "[Festival / award]",
+            "detail": "[Detail]"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": [
+    {
+      "id": "do-for-love",
+      "slug": "do-for-love",
+      "title": "Do for Love",
+      "category": "brain",
+      "role": "Director, Screenwriter",
+      "year": "2027",
+      "format": "Studio 20Q · Short film",
+      "logline": "After losing her brother, a young girl chooses to believe that he is still alive, and quietly brings him back for her and her mother.",
+      "description": "Set in 2016 China, Do for Love follows Nuonuo, a young girl who has always wished for a younger brother. When her brother dies, her family hides the truth from her. Holding onto this belief, Nuonuo begins to imagine his presence in her daily life - playing with him, talking to him, and quietly building a reality where he still exists.\n\nAs the world around her shifts - with friends gaining younger siblings and questioning her own - Nuonuo is forced to defend the existence of someone no one else can see. What begins as imagination becomes something more deliberate. Through small, careful actions, she reconstructs her brother from memory, using the objects he left behind.\n\nAt home, her mother carries grief in silence. Sensing this, Nuonuo takes on a quiet responsibility. In her own way, she brings her brother back. In a final gesture, she presents this constructed presence as something real, offering comfort in place of truth.\n\nBlending memory, imagination, and emotional reality, Do for Love explores how love is expressed in what is left unsaid, and how, sometimes, we create what is missing so the people we love don’t have to feel its absence.",
+      "note_of_intent": "This film is deeply personal. It comes from a memory I have carried with me since childhood, one that I did not fully understand until much later.\n\nIn 2012, in Beijing, I was finally going to have the little brother I had wished for for years. But after only a few months, he was gone. My last memory of him is fragmented. I was standing alone outside an operating room, staring at the red “Silence” sign above the door. I do not remember how long I stood there or what happened immediately before or after. That moment has remained in my mind almost like a still image.\n\nI was never told what had actually happened. Instead, my family told me that my brother had gone to Canada. As a child, I believed them completely. In my mind, he was simply somewhere else. He was absent, but he still existed somehow in my imagination.\n\nAround the same time, China was transitioning from the one-child policy to the two-child policy, and many of the children around me suddenly became older sisters and brothers. I was always the smallest in my family. I remember wanting the identity of a bigger sister very badly. I wanted the companionship of a sibling, but I also wanted what being an older sister seemed to represent. It meant that I was no longer only the child being cared for. I could teach someone, protect someone, and be needed by someone else. That childhood desire became the starting point for Nuonuo.\n\nFor Nuonuo, being a big sister is not simply a family role. It has become part of the way she understands her own value. She believes that being a sister makes her older, more responsible, and more important. Therefore, when the other children deny that identity, the conflict means much more to her than a simple playground argument. They are challenging something she genuinely believes about herself.\n\nI am interested in the seriousness of childhood emotions. Adults often look back at childhood conflicts and dismiss them as small, but children do not experience them that way. A game, a title, a toy, or one careless sentence can feel enormous when it becomes tied to a child's understanding of belonging and self-worth. Through Nuonuo, I want to stay close to that emotional perspective rather than looking at her world from a distance as an adult. Because childhood is what makes us us. Imagination is central to this approach. I do not see Nuonuo's imagined relationship with her brother as something that needs to be corrected or exposed as false. For her, it is an emotional reality. Her brother may be absent, but the love she feels for him is real. Her imagination becomes a way of making sense of something the adults around her have never been able to explain.\n\nThe adults are also trying to understand the same loss in different ways. Nuonuo's mother holds onto what remains. Her father believes the family needs to move forward. Nuonuo creates a presence out of what has been left behind. None of them expresses their grief in the same way, but all of their actions come from love.\n\nThis aspect of the film is especially important to me because I grew up in a culture where love is often expressed more through action than through language. In many East Asian families, people may not always say “I love you” directly. Instead, love appears through cooking, protecting, sacrificing, hiding pain, or making decisions on behalf of someone else. Those actions can be tender, but they can also be imperfect.\n\nNuonuo's parents never intend to hurt her. Her mother hides the truth because she believes she is protecting her daughter. Her father wants to put the past away because he believes the family cannot remain inside its grief forever. Nuonuo holds onto her brother because she loves him. They are all acting out of love, yet that love does not always reach the other person in the way they intend. This contradiction is at the heart of Do for Love.\n\nNuonuo's desire is never only about wanting a brother. She wants other people to recognize her as a sister because she believes that recognition confirms something about who she is. If the other children accept her as a big sister, then she can feel mature, important, and needed. This is where the story becomes universal for me.\n\nThe desire to have our value confirmed by other people does not end with childhood. We continue to search for that confirmation through the way other people see us. We often want something outside of ourselves to tell us that we matter. This question feels especially relevant now, when so much of our identity is made visible and measurable. We are constantly encouraged to present ourselves, compare ourselves, and understand our worth through recognition from others. Even at a very young age, we begin learning to ask whether we are successful enough, visible enough, or valued enough.\n\nThrough Nuonuo, I want to explore a different understanding of self-worth. By the end of the film, being a sister is no longer something that needs to be granted to her by the other children. It is revealed through what she is capable of doing: teaching, caring, remembering, and loving. Her value does not come from being recognized as a sister. It comes from the care she is able to give.\n\nThere is also a personal urgency behind making this film now. As I enter adulthood, I still feel close enough to the child who immersed herself in her rich imagination. I can still remember how naturally imagination and reality existed together. At the same time, I can feel that way of seeing the world becoming more distant. Making this film is partly my attempt to preserve that emotional perspective before fully taken away by growing up. The factual memory of what happened has always been incomplete, but the emotional memory remains very clear.\n\nThe story is also rooted in a specific moment in contemporary Chinese history. The transition from the one-child policy to the two-child policy changed family structures across China, but I am less interested in approaching that history through statistics or explanation. Instead, I want to explore its effect through a small and intimate experience.\n\nAlthough the cultural and historical context is specific, I believe the emotional experience is not. The desire to belong, to be needed, or to have another person confirm who we believe ourselves to be is universal.\n\nThis story comes from a childhood that is already slipping further away from me, but I hope something in it can remain: a memory, a feeling, a trace of the people we once were and the people we continue to love.\n\nFor my little brother, for the childhood we have left behind, and for all those we love.",
+      "instagram": "https://www.instagram.com/doforlove2027/",
+      "cover_url": "/api/uploads/do-for-love-teaser.jpg",
+      "video_url": "",
+      "audio_url": "",
+      "gallery": [],
+      "credits": [
+        {
+          "role": "Director",
+          "name": "Xiyue “Blair” Wang"
+        }
+      ],
+      "featured": true,
+      "order": -1,
+      "documents": [
+        {
+          "label": "Screenplay · PDF",
+          "url": "/api/uploads/do-for-love-script.pdf"
+        },
+        {
+          "label": "Visual treatment · PDF",
+          "url": "/api/uploads/do-for-love-visual-treatment.pdf"
+        }
+      ],
+      "production_status": "In post-production",
+      "release_year": "2027"
+    },
+    {
+      "id": "1",
+      "slug": "untitled-cinematography-1",
+      "title": "Untitled Cinematography 1",
+      "category": "eyes",
+      "year": "[Year]",
+      "format": "[Format · runtime]",
+      "role": "[Your role]",
+      "logline": "[Placeholder — replace with a one-line logline in the admin panel.]",
+      "description": "[Placeholder project. Add the synopsis, your approach, and what you learned.]",
+      "cover_url": "",
+      "video_url": "",
+      "audio_url": "",
+      "gallery": [],
+      "credits": [
+        {
+          "role": "[Role]",
+          "name": "[Name]"
+        }
+      ],
+      "order": 0,
+      "featured": true
+    },
+    {
+      "id": "2",
+      "slug": "untitled-sound-podcast-2",
+      "title": "Untitled Podcast 2",
+      "category": "mouth",
+      "year": "[Year]",
+      "format": "[Format · runtime]",
+      "role": "[Your role]",
+      "logline": "[Placeholder — replace with a one-line logline in the admin panel.]",
+      "description": "[Placeholder project. Add the synopsis, your approach, and what you learned.]",
+      "cover_url": "",
+      "video_url": "",
+      "audio_url": "",
+      "gallery": [],
+      "credits": [
+        {
+          "role": "[Role]",
+          "name": "[Name]"
+        }
+      ],
+      "order": 1,
+      "featured": true
+    },
+    {
+      "id": "4",
+      "slug": "untitled-produced-project-4",
+      "title": "Untitled Produced project 4",
+      "category": "arms",
+      "year": "[Year]",
+      "format": "[Format · runtime]",
+      "role": "[Your role]",
+      "logline": "[Placeholder — replace with a one-line logline in the admin panel.]",
+      "description": "[Placeholder project. Add the synopsis, your approach, and what you learned.]",
+      "cover_url": "",
+      "video_url": "",
+      "audio_url": "",
+      "gallery": [],
+      "credits": [
+        {
+          "role": "[Role]",
+          "name": "[Name]"
+        }
+      ],
+      "order": 3,
+      "featured": true
+    },
+    {
+      "id": "do-for-love-screenwriting-2025",
+      "slug": "do-for-love-screenwriting-2025",
+      "title": "Do for Love — Screenplay",
+      "category": "brain",
+      "role": "Screenwriter",
+      "format": "Short screenplay · MIT 260-0",
+      "year": "2025",
+      "course": "MIT 260-0",
+      "term": "Fall 2025",
+      "production_status": "Final class draft",
+      "cover_url": "/api/uploads/do-for-love-2025-screenplay-cover.svg",
+      "logline": "After her daughter decides to move in with her boyfriend, an overprotective mother determined to protect her fairy-tale ideal of love, which triggers a serious fight that could break them apart.",
+      "description": "A protective mother discovers that her sixteen-year-old daughter is planning to leave home with her boyfriend. A night of secrecy and confrontation forces them to face the difference between love and control, and the pain they have kept from each other.",
+      "treatment": "In 2022, Beijing, China. XIAOSAI (45), a strong and independent woman, a mom, works day and night. She makes calls, conducts business in the house. KUAN (16), a naïve but rebellious teenage girl, who always wants to escape from her mom’s protection and start her own life without Xiaosai.\n\nKuan dates JIANNING (17), a boy from another high school, possessive and irresponsible. Xiaosai is against the relationship, so they keep it secret. One day, Jianning texts Kuan to live outside with him, so she does not have to worry about her mom anymore. Xiaosai sees the text when she goes through Kuan’s phone when she’s asleep.\n\nThe next day, her daughter goes to a sleepover birthday party of her friend, BEIBEI (17). She calls at night to check on Kuan, but she does not pick up. So, she calls Beibei to say happy birthday and asks her about the party. Beibei is confused because it is not her birthday, and she and Kuan cut off contact for months after Kuan and her boyfriend get together. At the moment, all the heat goes to her head. She tries to stay in a calm tone, but her voice shakes. She checks Kuan’s location – a bar. She calls the bar and demands to take her daughter back. In the bar, the music suddenly stops. The DJ (25) repeats Kuan’s name and announces that her mother wants her home urgently on the mic. Kuan’s face turns red immediately, and she runs out of the bar.\n\nOutside of the bar, Jianning tries to convince Kuan again to move out with him, and he warns her that it cannot happen again. Kuan is reluctant. She is concerned that she is not independent enough to leave the family. Xiaosai sees everything from the car window from a distance. Jianning violently grabs her hand and threatens that she must leave now. As soon as it happens, she drives in front of them and honks the horn. As Jianning sees Xiaosai in the car, he dashes off in a flash and leaves Kuan on the street.\n\nXiaosai is desperate to pull her into the car, but Kuan fights back. The car horn blares. Streetlights flicker across their faces. She pushes Xiaosai away and accuses she doesn’t love her. Xiaosai freezes. She stops the fight and deflates. Kuan wants to say something else to make it up, but nothing comes out of her mouth. Xiaosai and Kuan both walk into the car.\n\nKuan stares out the window and breathes heavily from the fight. Xiaosai grips the wheel. The car runs in silence. She unfolds the hidden truth – her HUSBAND’s (44) betrayal during her pregnancy and the shame that she stays in a broken marriage just to give her daughter a “complete family.” The daughter listens in silence. Big teardrops, one after another, roll down her cheeks. Kuan looks down and wants to grab Xiaosai’s hand to comfort her, but she pulls back. As she pulls her hand out, she still sees the red mark on her wrist from Jianning. She opens her phone and deletes his contact. Silence fills the car space again. Xiaosai takes out a box of fruit from the car door pocket and offers it to Kuan. Kuan takes it and eats in silence. The car continues down the road.",
+      "development_note": "I wrote this screenplay for MIT 260-0 in Fall 2025. It became an early starting point and prototype for my Studio 20Q project, Do for Love. The plot changed drastically as the project developed. This class version follows a mother and her teenage daughter; the later film follows Nuonuo and her imagined relationship with her younger brother.",
+      "video_url": "",
+      "audio_url": "",
+      "gallery": [],
+      "credits": [
+        {
+          "role": "Screenwriter",
+          "name": "Xiyue “Blair” Wang · 王晰乐"
+        }
+      ],
+      "featured": true,
+      "order": 0,
+      "documents": [
+        {
+          "label": "Final class draft · PDF",
+          "url": "/api/uploads/do-for-love-2025-screenplay.pdf"
+        }
+      ],
+      "show_gallery": false
+    },
+    {
+      "id": "feb-28-mar12-mov",
+      "slug": "feb-28-mar12-mov",
+      "title": "Feb 28_Mar12.mov",
+      "category": "brain",
+      "role": "All roles · Solo project",
+      "format": "Archival / desktop documentary",
+      "year": "2026",
+      "course": "MIT 392 · Documentary Production",
+      "term": "Spring 2026",
+      "duration": "5 minutes 19 seconds",
+      "language": "English",
+      "country": "Qatar / China",
+      "production_status": "Completed · Final class film",
+      "show_gallery": false,
+      "featured": true,
+      "order": 1,
+      "cover_url": "/api/uploads/feb-28-mar12-dossier-cover.jpg",
+      "video_url": "https://drive.google.com/file/d/1zLBqHYNJIuaTW1JoS0nBSuSk33tF42cd/view?usp=sharing",
+      "video_embed_url": "https://drive.google.com/file/d/1zLBqHYNJIuaTW1JoS0nBSuSk33tF42cd/preview",
+      "audio_url": "",
+      "gallery": [],
+      "documents": [],
+      "credits": [
+        {
+          "role": "All roles · Solo project",
+          "name": "Xiyue “Blair” Wang · 王晰乐"
+        }
+      ],
+      "logline": "When war stops feeling distant, a 19 year old Chinese girl in Qatar turns her digital traces into a diary of fear, routine, and the quiet absurdity of carrying on.",
+      "description": "Built entirely from personal digital archives, the film explores a 19 year old personal experience of living through a period of regional conflict involving Israel, the United States, and Iran, and how it has directly affected daily life in Qatar. It began on February 28, when the first explosion occurred, while she was filming another class assignment. In the days that followed, missile activity continued targeting U.S. bases. Despite this proximity, life continues in a strangely normal way: classes move online, assignments remain due, and public spaces stay open.",
+      "directors_statement": "For most of my life, war was something far away from me. It belonged to history books, news reports, and films. I never imagined it could become something I would hear, feel, and live beside in my everyday life. But during this period of regional conflict in Qatar, that distance suddenly collapsed. What unsettled me most was not only the explosions or the fear, but the strange way life kept moving. Classes shifted online, assignments were still due, and people still went out, while all of this was happening in the background. That contradiction stayed with me.\n\nAs an international student living away from home, I experienced much of this moment through my phone and laptop. My screen became the place where everything gathered: news updates, alert messages, and the small traces of how I was trying to make sense of what was happening. Looking back at these digital fragments, I realized they had become a kind of diary. They held the emotions, like, confusion, numbness, fear, and the odd normalcy of continuing with daily life while something larger and more frightening unfolded nearby.\n\nI wanted to make this film because I was drawn to that feeling of living inside contradiction. This is not a film about war in a grand or distant sense. It is about what it feels like when instability quietly enters your routine and begins to shape the way you think, feel, and move through the world. By using a desktop documentary form, I wanted the film to feel intimate and immediate, as if the audience is inside that same space of scrolling, searching, waiting, and processing alongside me.",
+      "previous_cover_url": "/api/uploads/feb-28-mar12-cover.svg"
+    },
+    {
+      "id": "who-knows-music-video",
+      "slug": "who-knows-music-video",
+      "title": "Who Knows — Music Video",
+      "category": "eyes",
+      "role": "Cinematographer & Editor",
+      "format": "Student music video",
+      "year": "2026",
+      "course": "MIT 380: Lighting and Cinematography",
+      "term": "Spring 2026",
+      "artist": "Daniel Caesar",
+      "song": "Who Knows",
+      "production_status": "Completed · Class project",
+      "cover_url": "/api/uploads/who-knows-still-4.png",
+      "video_url": "https://drive.google.com/file/d/1BQBLj0b07zbjzlmvpdY9C3Psc4SboHkM/view?usp=sharing",
+      "video_embed_url": "https://drive.google.com/file/d/1BQBLj0b07zbjzlmvpdY9C3Psc4SboHkM/preview",
+      "audio_url": "",
+      "gallery": [
+        "/api/uploads/who-knows-still-1.png",
+        "/api/uploads/who-knows-still-2.png",
+        "/api/uploads/who-knows-still-3.png",
+        "/api/uploads/who-knows-still-4.png"
+      ],
+      "show_gallery": true,
+      "featured": true,
+      "order": 0,
+      "logline": "A quiet story about unspoken love.",
+      "description": "A boy has loved a girl for a long time, but struggles between wanting to confess and staying silent. He sees her as distant and perfect, imagines a future with her, but never dares to tell her. Until one day, he realizes it is too late.",
+      "tone": "Soft, melancholic, restrained",
+      "visual_approach": "The pitch sets out a soft, melancholic and restrained visual tone. Exterior lighting references use streetlights and car lights as the key, with a dim LED fill from the side. Interior references use cool blue window light and a dim side fill, keeping the room dark to maintain a low-key atmosphere.",
+      "credits": [
+        {
+          "role": "Cinematography",
+          "name": "Xiyue “Blair” Wang · 王晰乐"
+        },
+        {
+          "role": "Editing",
+          "name": "Xiyue “Blair” Wang · 王晰乐"
+        },
+        {
+          "role": "Song",
+          "name": "“Who Knows” — Daniel Caesar"
+        }
+      ],
+      "documents": [
+        {
+          "label": "Music video pitch · PDF",
+          "url": "/api/uploads/who-knows-music-video-pitch.pdf"
+        }
+      ],
+      "previous_cover_url": "/api/uploads/who-knows-music-video-cover.jpg"
+    },
+    {
+      "title": "Addiction",
+      "category": "eyes",
+      "year": "2025",
+      "format": "Personal project",
+      "role": "Director of Photography",
+      "logline": "",
+      "description": "A personal project made in 2025. Director of Photography: Xiyue Wang.",
+      "cover_url": "",
+      "video_url": "https://drive.google.com/file/d/1UEmKCC83JbTW--w1ujJjlVpA8tnzH4Ix/view?usp=sharing",
+      "audio_url": "",
+      "gallery": [],
+      "credits": [
+        {
+          "role": "Director of Photography",
+          "name": "Xiyue “Blair” Wang · 王晰乐"
+        }
+      ],
+      "order": 0,
+      "featured": false,
+      "id": "e8ceb7ff-2ba9-401c-8f7d-4c7fa840b16b",
+      "slug": "addiction-53b6ae",
+      "detail_layout": "personal-film",
+      "video_embed_url": "https://drive.google.com/file/d/1UEmKCC83JbTW--w1ujJjlVpA8tnzH4Ix/preview",
+      "show_gallery": false
+    }
+  ],
+  "messages": []
+}

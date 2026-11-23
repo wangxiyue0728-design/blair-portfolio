@@ -1,0 +1,4 @@
+.mv-stills{padding:20px 0 60px}.mv-stills-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}.mv-stills figure{margin:0}.mv-stills a{display:block;background:#08080d;border:1px solid #f4b5de45;transition:border-color .2s}.mv-stills a:hover{border-color:#f4b5de}.mv-stills a:focus-visible{outline:2px solid #dff700;outline-offset:5px}.mv-stills a{aspect-ratio:16/9;overflow:hidden}.mv-stills img{display:block;width:100%;height:100%;object-fit:cover}@media(max-width:700px){.mv-stills-grid{grid-template-columns:1fr;gap:18px}.mv-stills{padding-bottom:40px}}
+
+/* Remove the encoded letterbox bars from the project-card preview. */
+a[href="/project/who-knows-music-video"] img[src*="who-knows-still-4.png"]{transform:scale(1.112);transform-origin:center}
