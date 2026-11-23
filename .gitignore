@@ -1,0 +1,6 @@
+local-data.json
+before-portrait.json
+__pycache__/
+*.tmp
+.DS_Store
+dist/server/
