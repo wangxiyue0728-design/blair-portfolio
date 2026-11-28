@@ -1,0 +1,57 @@
+.mv-stills{padding:20px 0 60px}.mv-stills-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}.mv-stills figure{margin:0}.mv-stills a{display:block;background:#08080d;border:1px solid #f4b5de45;transition:border-color .2s}.mv-stills a:hover{border-color:#f4b5de}.mv-stills a:focus-visible{outline:2px solid #dff700;outline-offset:5px}.mv-stills a{aspect-ratio:16/9;overflow:hidden}.mv-stills img{display:block;width:100%;height:100%;object-fit:cover}@media(max-width:700px){.mv-stills-grid{grid-template-columns:1fr;gap:18px}.mv-stills{padding-bottom:40px}}
+
+/* Remove the encoded letterbox bars from the project-card preview. */
+a[href="/blairwang.portfolio/project/who-knows-music-video"] img[src*="who-knows-still-4.png"]{transform:scale(1.112);transform-origin:center}
+
+@media (hover: hover) {
+  .personal-film-project .mv-stills a:hover img { transform: scale(1.06); }
+}
+@media (hover: hover) and (prefers-reduced-motion: no-preference) {
+  .personal-film-project .mv-stills img { transition: transform .2s ease; }
+}
+
+/* Keep the grid footprint fixed while the photo reveals its full portrait frame. */
+.uncropped-photo-preview a {
+  position: relative;
+  container-type: inline-size;
+  overflow: visible;
+  border-color: transparent;
+  background: transparent;
+}
+
+.uncropped-photo-preview a:focus-visible {
+  --photo-width: min(108cqw, 63.75svh, 94vw);
+  --photo-height: calc(var(--photo-width) * 4 / 3);
+  --photo-outline: #f4b5de;
+  --photo-shadow: 0 12px 40px #000a;
+  z-index: 2;
+}
+
+@media (hover: hover) {
+  .uncropped-photo-preview a:hover {
+    --photo-width: min(108cqw, 63.75svh, 94vw);
+    --photo-height: calc(var(--photo-width) * 4 / 3);
+    --photo-outline: #f4b5de;
+    --photo-shadow: 0 12px 40px #000a;
+    border-color: transparent;
+    z-index: 2;
+  }
+}
+
+.personal-film-project .uncropped-photo-preview a:any-link img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: var(--photo-width, 100%);
+  height: var(--photo-height, 100%);
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+  outline: 1px solid var(--photo-outline, #f4b5de45);
+  box-shadow: var(--photo-shadow, none);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .personal-film-project .uncropped-photo-preview a:any-link img {
+    transition: width 280ms ease, height 280ms ease, outline-color 280ms ease, box-shadow 280ms ease;
+  }
+}
