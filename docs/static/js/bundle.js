@@ -9775,7 +9775,17 @@ function Contact() {
     e.preventDefault();
     setBusy(true);
     try {
-      const response = await fetch("https://formsubmit.co/ajax/wangxiyue0728@gmail.com", {method:"POST", headers:{"Content-Type":"application/json","Accept":"application/json"},body:JSON.stringify(form)}); const result = await response.json(); if (!response.ok || String(result.success) !== "true") throw Error("Message delivery failed");
+      const response = await fetch("https://formsubmit.co/ajax/wangxiyue0728@gmail.com", {method:"POST", headers:{"Content-Type":"application/json","Accept":"application/json"},body: JSON.stringify({
+        ...form,
+        _url: new URL("contact/", document.baseURI).href
+      })});
+      const result = await response.json();
+      if (!response.ok || String(result.success) !== "true") {
+        const needsActivation = /needs activation/i.test(result.message || "");
+        throw new Error(needsActivation
+          ? "The contact form is awaiting activation. Please use the email address on this page."
+          : "Message delivery failed. Please try again or use the email address on this page.");
+      }
       setSent(true);
       sonner__WEBPACK_IMPORTED_MODULE_5__.toast.success("Message sent — thank you!");
     } catch (err) {
