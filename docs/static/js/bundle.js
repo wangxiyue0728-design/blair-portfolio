@@ -140,7 +140,7 @@ function App() {
         "x-id": "App_33_8",
         "x-dynamic": "true",
         children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_16__.jsxDEV)(react_router_dom__WEBPACK_IMPORTED_MODULE_1__.BrowserRouter, {
-          basename: "/blair-portfolio", "x-file-name": "App",
+          basename: new URL(document.baseURI).pathname.replace(/\/$/, ""), "x-file-name": "App",
           "x-line-number": "34",
           "x-column": "10",
           "x-component": "BrowserRouter",
